@@ -16,4 +16,3 @@ spring:
 		  password: kiss527131407
       label: master
 spring.application.name=config-client
-spring.cloud.config.server.git.searchPaths=respo
