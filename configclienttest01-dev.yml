@@ -17,4 +17,4 @@ spring:
       label: master
 spring.application.name=config-client
 spring.cloud.config.server.git.searchPaths=respo2
-spring.cloud.config.server.git.searchPaths=respo6
+spring.cloud.config.server.git.searchPaths=respo7
